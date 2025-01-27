@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2=h#)$*15x15x2&d84!73t%024w&x*&+ne*&r(j9qse(4sl5@9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'ai-ditor.onrender.com']
 
 
 # Application definition
